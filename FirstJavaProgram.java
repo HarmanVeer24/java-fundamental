@@ -1,5 +1,5 @@
 public class FirstJavaProgram{
 	public static void main(String args[]){
-		System.out.println("Capegemini training started");
+		System.out.println("BridgeLabz training started");
 	}
 }
